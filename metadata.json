@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inglés A1-B2",
+  "description": "Aplicación integral para aprender y dominar inglés (A1, A2, B1 y B2): temarios completos por MCER, audiolibros graduados con lectura sincronizada y pronunciación TTS, videoclases y masterclasses HD con subtítulos interactivos, simulacros Cambridge (A2 Key, B1 PET, B2 First), práctica oral con IA conversacional, Pomodoro, diccionario contextual y repaso espaciado SRS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
